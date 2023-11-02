@@ -10,7 +10,7 @@ html {
 }
 
 .container {
-    max-width: 1024px; /*determina uma largura maxima*/
+    max-width: 80%; /*determina uma largura maxima*/
     width: 100%;/*determina que preencha 100% da largura*/
     margin: 0 auto;
 }
